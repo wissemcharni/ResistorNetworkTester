@@ -1,0 +1,14 @@
+C:\Users\wisse\OneDrive\Desktop\ResistanceNetworkTester\ResistanceNetworkTester\bin\Debug\net6.0-windows\ResistanceNetworkTester.exe
+C:\Users\wisse\OneDrive\Desktop\ResistanceNetworkTester\ResistanceNetworkTester\bin\Debug\net6.0-windows\ResistanceNetworkTester.deps.json
+C:\Users\wisse\OneDrive\Desktop\ResistanceNetworkTester\ResistanceNetworkTester\bin\Debug\net6.0-windows\ResistanceNetworkTester.runtimeconfig.json
+C:\Users\wisse\OneDrive\Desktop\ResistanceNetworkTester\ResistanceNetworkTester\bin\Debug\net6.0-windows\ResistanceNetworkTester.dll
+C:\Users\wisse\OneDrive\Desktop\ResistanceNetworkTester\ResistanceNetworkTester\bin\Debug\net6.0-windows\ResistanceNetworkTester.pdb
+C:\Users\wisse\OneDrive\Desktop\ResistanceNetworkTester\ResistanceNetworkTester\obj\Debug\net6.0-windows\ResistanceNetworkTester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wisse\OneDrive\Desktop\ResistanceNetworkTester\ResistanceNetworkTester\obj\Debug\net6.0-windows\ResistanceNetworkTester.AssemblyInfoInputs.cache
+C:\Users\wisse\OneDrive\Desktop\ResistanceNetworkTester\ResistanceNetworkTester\obj\Debug\net6.0-windows\ResistanceNetworkTester.AssemblyInfo.cs
+C:\Users\wisse\OneDrive\Desktop\ResistanceNetworkTester\ResistanceNetworkTester\obj\Debug\net6.0-windows\ResistanceNetworkTester.csproj.CoreCompileInputs.cache
+C:\Users\wisse\OneDrive\Desktop\ResistanceNetworkTester\ResistanceNetworkTester\obj\Debug\net6.0-windows\ResistanceNetworkTester.dll
+C:\Users\wisse\OneDrive\Desktop\ResistanceNetworkTester\ResistanceNetworkTester\obj\Debug\net6.0-windows\refint\ResistanceNetworkTester.dll
+C:\Users\wisse\OneDrive\Desktop\ResistanceNetworkTester\ResistanceNetworkTester\obj\Debug\net6.0-windows\ResistanceNetworkTester.pdb
+C:\Users\wisse\OneDrive\Desktop\ResistanceNetworkTester\ResistanceNetworkTester\obj\Debug\net6.0-windows\ResistanceNetworkTester.genruntimeconfig.cache
+C:\Users\wisse\OneDrive\Desktop\ResistanceNetworkTester\ResistanceNetworkTester\obj\Debug\net6.0-windows\ref\ResistanceNetworkTester.dll
