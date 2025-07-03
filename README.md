@@ -124,17 +124,16 @@ public double MaxVoltage => ExpectedVoltage * (1 + TolerancePercent / 100) + Abs
 ## Test Sequence
 
 ### Test Matrix (8 combinations)
-
-| Test | F1 | F2 | F3 | R_eff (kΩ)|Expected Output |
-|------|----|----|----|----------------------------|
-| 01   | 0V | 0V | 0V |     ∞     | ~3.30V         |
-| 02   | 24V| 0V | 0V |    12.00  | ~2.37V         |
-| 03   | 0V | 24V| 0V |    24.00  | ~2.76V         |
-| 04   | 24V| 24V| 0V |    8.00   | ~2.08V         |
-| 05   | 0V | 0V | 24V|    47.00  | ~3.00V         |
-| 06   | 24V| 0V | 24V|    9.56   | ~2.21V         |
-| 07   | 0V | 24V| 24V|    15.89  | ~2.55V         |
-| 08   | 24V| 24V| 24V|    6.83   | ~1.95V         |
+|  F1  |  F2  |  F3  | Expected Output  |
+|:----:|:----:|:----:|:----------------:|
+|  0V  |  0V  |  0V  |      ~3.30V      |
+| 24V  |  0V  |  0V  |      ~2.37V      |
+|  0V  | 24V  |  0V  |      ~2.76V      |
+| 24V  | 24V  |  0V  |      ~2.08V      |
+|  0V  |  0V  | 24V  |      ~3.00V      |
+| 24V  |  0V  | 24V  |      ~2.21V      |
+|  0V  | 24V  | 24V  |      ~2.55V      |
+| 24V  | 24V  | 24V  |      ~1.95V      |
 
 
 ### Test Execution Flow
